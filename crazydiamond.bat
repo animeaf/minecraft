@@ -29,7 +29,6 @@ if %checkedVersion% gtr %actualVersion% (
     7za  x -bso0 -aoa cache\update%checkedVersion%.zip -o..\
     del /s cache\update%checkedVersion%.zip 1>nul
     start ..\update%checkedVersion%.exe
-    echo hola
     goto salir
 )
 cd ..\minecraft
