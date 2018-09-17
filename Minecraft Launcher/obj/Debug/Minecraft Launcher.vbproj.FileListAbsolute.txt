@@ -1,0 +1,11 @@
+C:\Users\JuanCarlos\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\Minecraft Launcher.exe.config
+C:\Users\JuanCarlos\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\Minecraft Launcher.exe
+C:\Users\JuanCarlos\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\Minecraft Launcher.pdb
+C:\Users\JuanCarlos\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\Minecraft Launcher.xml
+C:\Users\JuanCarlos\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.vbprojAssemblyReference.cache
+C:\Users\JuanCarlos\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft_Launcher.Resources.resources
+C:\Users\JuanCarlos\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.vbproj.GenerateResource.cache
+C:\Users\JuanCarlos\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\JuanCarlos\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.exe
+C:\Users\JuanCarlos\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.xml
+C:\Users\JuanCarlos\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.pdb
